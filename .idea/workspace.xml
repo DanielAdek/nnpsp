@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8628970-bf4e-4aad-82f0-0433393892f5" name="Changes" comment="" />
+    <list default="true" id="d8628970-bf4e-4aad-82f0-0433393892f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/src/main/java/com/nownow/nnpsp/NnpspApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/nnpsp/src/test/java/com/nownow/nnpsp/NnpspApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +25,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TR4z94I2BvGxOQH45JGXULfjoA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -42,10 +56,26 @@
       <workItem from="1690992827227" duration="6000" />
       <workItem from="1690992884802" duration="48000" />
       <workItem from="1690992963204" duration="52000" />
+      <workItem from="1690993041254" duration="1330000" />
+      <workItem from="1690994472177" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
